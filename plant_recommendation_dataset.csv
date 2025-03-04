@@ -1,0 +1,451 @@
+Common Name,Scientific Name,Growth Type,Edible,Medicinal Use,Optimal Temperature (°C),Humidity Preference (%),Sunlight Requirement,Climate Suitability,Preferred Soil Type,Soil pH Range,Water Requirement,Irrigation Frequency,Germination Time (Days),Time to Harvest (Days),Companion Planting Suitability,Pruning Requirement,Common Pests,Disease Resistance,Nitrogen Need,Phosphorus Need,Potassium Need,Recommended Organic Fertilizers,Suitable for Region,Suitable for Season
+Mint,Mentha,Herb,Yes,Yes,23,81,Partial Shade,Temperate,Sandy,6.1,Medium,Daily,20,63,Bad,No,Bacterial,None,Medium,Medium,High,Compost,Bangalore,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,15,53,Partial Shade,Arid,Sandy,5.5,Low,Daily,20,104,Good,No,Caterpillars,Viral,Medium,Low,Medium,Vermicompost,Chennai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,15,65,Shade,Subtropical,Silt,7.4,Low,Daily,6,41,Good,Yes,Caterpillars,None,Low,High,High,Compost,Delhi,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,31,47,Full Sun,Tropical,Peaty,5.7,Low,Daily,6,45,Bad,No,Bacterial,Bacterial,High,Low,Medium,Compost,Hyderabad,Winter
+Radish,Raphanus sativus,Herb,Yes,No,26,60,Shade,Arid,Loam,6.8,Low,Daily,11,118,Good,No,Bacterial,Fungal,Medium,High,Low,Compost,Delhi,Winter
+Mint,Mentha,Herb,Yes,Yes,18,76,Partial Shade,Subtropical,Silt,6.0,Medium,Daily,14,56,Bad,Yes,None,Fungal,Medium,Medium,Low,Compost,Chennai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,23,51,Shade,Arid,Sandy,5.9,Medium,Daily,11,82,Bad,No,Fungal,None,Low,Low,Low,Manure,Mumbai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,31,79,Full Sun,Tropical,Loam,7.3,High,Weekly,8,61,Good,Yes,None,Fungal,Medium,Medium,Medium,Manure,Delhi,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,17,87,Full Sun,Subtropical,Clay,6.2,High,Weekly,10,99,Bad,No,Caterpillars,Bacterial,Medium,Low,High,Vermicompost,Bangalore,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,26,84,Full Sun,Temperate,Peaty,6.9,Low,Weekly,6,82,Good,Yes,Aphids,Viral,Low,Medium,Medium,Manure,Delhi,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,17,53,Partial Shade,Subtropical,Silt,6.2,Low,Daily,5,117,Bad,No,Bacterial,Fungal,Low,High,Medium,Manure,Mumbai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,28,63,Partial Shade,Arid,Loam,5.9,Medium,Daily,8,56,Good,Yes,Fungal,Fungal,Medium,High,High,Compost,Bangalore,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,27,82,Partial Shade,Arid,Loam,5.9,Medium,Daily,13,51,Good,No,Fungal,Bacterial,Medium,High,Medium,Manure,Chennai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,27,74,Full Sun,Arid,Clay,7.2,High,Weekly,19,116,Bad,No,None,None,Medium,Medium,Low,Compost,Delhi,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,22,42,Full Sun,Temperate,Peaty,6.1,Low,Weekly,15,51,Good,Yes,Fungal,Viral,Medium,Low,Medium,Compost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,28,80,Full Sun,Tropical,Peaty,7.0,High,Weekly,15,75,Good,Yes,None,None,High,Medium,High,Manure,Hyderabad,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,63,Full Sun,Subtropical,Peaty,6.9,High,Daily,12,31,Bad,Yes,None,Bacterial,Medium,Low,Medium,Manure,Hyderabad,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,49,Shade,Subtropical,Silt,6.5,Medium,Daily,10,41,Good,No,Bacterial,Fungal,High,Medium,High,Compost,Delhi,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,21,47,Partial Shade,Temperate,Sandy,5.6,High,Daily,10,70,Good,No,None,None,High,Low,Medium,Manure,Hyderabad,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,32,44,Shade,Subtropical,Loam,6.6,High,Daily,7,48,Good,No,Fungal,Bacterial,Low,Low,High,Vermicompost,Hyderabad,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,28,69,Full Sun,Tropical,Loam,6.8,Low,Daily,11,84,Bad,Yes,Caterpillars,Fungal,Low,Low,Medium,Compost,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,34,45,Partial Shade,Temperate,Loam,7.4,High,Daily,5,38,Good,No,Aphids,None,High,Medium,High,Manure,Chennai,Winter
+Carrot,Daucus carota,Herb,Yes,No,35,54,Full Sun,Tropical,Sandy,6.6,Medium,Daily,8,105,Good,Yes,None,Bacterial,High,Low,Medium,Vermicompost,Chennai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,16,83,Full Sun,Subtropical,Clay,7.1,Low,Weekly,20,119,Bad,Yes,Aphids,Bacterial,High,Medium,Low,Vermicompost,Delhi,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,20,57,Shade,Arid,Loam,7.3,High,Weekly,18,46,Bad,Yes,None,Viral,Medium,Medium,High,Compost,Chennai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,30,88,Partial Shade,Arid,Peaty,7.5,Low,Weekly,8,31,Bad,No,Caterpillars,Fungal,High,High,High,Manure,Mumbai,Monsoon
+Mint,Mentha,Herb,Yes,Yes,32,53,Full Sun,Arid,Loam,5.7,Low,Weekly,11,40,Bad,Yes,None,Bacterial,High,Low,High,Manure,Chennai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,72,Partial Shade,Temperate,Sandy,7.4,Medium,Weekly,6,67,Good,No,Caterpillars,Bacterial,Medium,Medium,High,Manure,Hyderabad,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,23,80,Partial Shade,Arid,Clay,6.6,High,Weekly,16,99,Bad,Yes,Aphids,Bacterial,Medium,Medium,Low,Vermicompost,Mumbai,Summer
+Carrot,Daucus carota,Herb,Yes,No,17,86,Shade,Arid,Loam,7.1,Medium,Weekly,12,48,Bad,Yes,Aphids,Fungal,High,High,High,Manure,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,30,54,Partial Shade,Tropical,Sandy,5.8,Low,Weekly,14,82,Good,Yes,Fungal,Viral,Low,Low,Low,Vermicompost,Mumbai,Summer
+Carrot,Daucus carota,Herb,Yes,No,16,43,Partial Shade,Temperate,Sandy,5.6,High,Weekly,12,81,Bad,Yes,Fungal,Bacterial,Medium,High,High,Vermicompost,Hyderabad,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,22,77,Full Sun,Temperate,Sandy,7.3,High,Daily,12,80,Bad,No,None,Viral,High,Medium,Low,Compost,Mumbai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,19,43,Full Sun,Tropical,Sandy,6.6,High,Weekly,14,95,Good,No,Fungal,Bacterial,Medium,Medium,Low,Vermicompost,Chennai,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,20,43,Shade,Temperate,Loam,6.7,Low,Weekly,5,88,Good,No,Fungal,None,Low,Low,High,Compost,Hyderabad,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,70,Full Sun,Subtropical,Clay,5.6,Low,Daily,17,57,Good,No,Caterpillars,Viral,Low,Medium,High,Compost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,17,49,Shade,Tropical,Sandy,7.5,Medium,Weekly,13,104,Bad,No,None,Fungal,Medium,Low,Low,Vermicompost,Chennai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,35,80,Shade,Tropical,Silt,6.3,High,Daily,10,94,Good,No,None,Viral,Low,High,Low,Vermicompost,Hyderabad,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,16,80,Full Sun,Subtropical,Loam,6.4,Low,Weekly,8,72,Good,Yes,Aphids,Viral,Medium,High,Low,Vermicompost,Chennai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,15,46,Shade,Subtropical,Peaty,6.9,Low,Daily,12,103,Bad,Yes,Aphids,Fungal,Medium,Low,Medium,Compost,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,34,58,Full Sun,Subtropical,Sandy,5.8,High,Daily,8,120,Good,No,Aphids,None,Medium,Medium,Low,Compost,Mumbai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,26,85,Full Sun,Subtropical,Sandy,6.6,Medium,Weekly,9,106,Good,Yes,Caterpillars,Fungal,High,High,Medium,Compost,Mumbai,Winter
+Carrot,Daucus carota,Herb,Yes,No,15,76,Full Sun,Subtropical,Silt,5.9,Low,Weekly,15,73,Good,Yes,Bacterial,Bacterial,Low,Low,High,Manure,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,32,46,Shade,Tropical,Clay,7.3,Low,Weekly,10,93,Bad,No,Fungal,Bacterial,High,Medium,Medium,Compost,Bangalore,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,21,62,Full Sun,Temperate,Loam,6.8,High,Daily,9,83,Bad,Yes,Bacterial,Viral,Medium,Low,Low,Manure,Delhi,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,18,63,Partial Shade,Temperate,Clay,5.9,Low,Weekly,15,54,Good,No,Bacterial,Bacterial,Medium,Medium,High,Compost,Delhi,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,26,78,Partial Shade,Subtropical,Loam,7.1,Medium,Daily,16,34,Good,Yes,Fungal,None,Low,Low,Low,Vermicompost,Chennai,Winter
+Carrot,Daucus carota,Herb,Yes,No,27,46,Partial Shade,Temperate,Clay,6.6,Medium,Weekly,11,98,Bad,No,Caterpillars,Viral,Medium,Low,High,Manure,Chennai,Monsoon
+Mint,Mentha,Herb,Yes,Yes,15,61,Full Sun,Temperate,Clay,5.6,Low,Weekly,11,109,Bad,Yes,None,Bacterial,Low,Medium,High,Vermicompost,Delhi,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,33,62,Full Sun,Subtropical,Peaty,6.7,High,Weekly,10,32,Bad,No,None,None,Medium,High,Low,Manure,Delhi,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,17,83,Shade,Tropical,Clay,6.3,Medium,Weekly,17,98,Bad,Yes,None,Bacterial,Medium,Medium,High,Manure,Hyderabad,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,20,73,Partial Shade,Subtropical,Silt,6.0,Low,Daily,16,97,Bad,Yes,Aphids,Fungal,Medium,High,Medium,Compost,Delhi,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,32,89,Shade,Subtropical,Clay,6.5,Low,Weekly,8,119,Good,No,Bacterial,Fungal,Medium,Medium,High,Compost,Hyderabad,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,18,43,Partial Shade,Temperate,Clay,6.9,High,Daily,16,62,Bad,No,Fungal,Viral,Medium,High,High,Compost,Hyderabad,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,19,54,Shade,Subtropical,Silt,5.9,Low,Weekly,5,39,Bad,No,Bacterial,Fungal,Medium,High,Low,Compost,Delhi,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,24,71,Shade,Tropical,Sandy,5.9,Low,Daily,5,67,Good,Yes,Bacterial,Fungal,High,High,Medium,Compost,Bangalore,Monsoon
+Mint,Mentha,Herb,Yes,Yes,18,52,Partial Shade,Tropical,Loam,6.8,Low,Daily,19,53,Bad,Yes,Bacterial,Viral,Medium,High,Low,Manure,Bangalore,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,29,86,Shade,Arid,Sandy,7.0,Low,Weekly,9,46,Good,Yes,Caterpillars,Viral,High,High,High,Vermicompost,Mumbai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,24,62,Shade,Tropical,Clay,6.9,Low,Daily,19,102,Bad,Yes,Aphids,Viral,Medium,Low,High,Manure,Mumbai,Winter
+Radish,Raphanus sativus,Herb,Yes,No,26,62,Partial Shade,Tropical,Clay,5.8,Medium,Weekly,11,114,Bad,No,Aphids,Bacterial,Low,Low,Medium,Vermicompost,Bangalore,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,58,Partial Shade,Arid,Clay,5.7,High,Weekly,20,51,Good,Yes,Fungal,None,Medium,High,Medium,Compost,Chennai,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,19,40,Partial Shade,Tropical,Loam,7.5,Low,Daily,7,77,Good,No,Caterpillars,Viral,Low,Medium,Medium,Vermicompost,Chennai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,35,73,Shade,Tropical,Sandy,6.1,Medium,Daily,7,120,Good,No,Bacterial,Bacterial,High,Low,Low,Vermicompost,Mumbai,Winter
+Radish,Raphanus sativus,Herb,Yes,No,21,89,Shade,Tropical,Peaty,6.6,Medium,Weekly,16,34,Good,No,Fungal,None,Low,High,Medium,Manure,Hyderabad,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,17,78,Full Sun,Subtropical,Sandy,6.5,Medium,Weekly,8,78,Good,Yes,Fungal,Fungal,Medium,High,Low,Manure,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,29,75,Full Sun,Temperate,Silt,7.3,Medium,Weekly,15,44,Bad,No,Caterpillars,Bacterial,Medium,Low,Medium,Compost,Mumbai,Winter
+Carrot,Daucus carota,Herb,Yes,No,31,65,Full Sun,Tropical,Silt,5.9,Medium,Daily,10,100,Bad,No,Aphids,Viral,Low,Medium,Low,Manure,Bangalore,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,17,68,Shade,Subtropical,Sandy,7.3,Medium,Weekly,11,38,Good,No,Fungal,Viral,High,Medium,Low,Compost,Chennai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,33,62,Partial Shade,Temperate,Clay,6.4,Medium,Weekly,19,80,Good,Yes,None,None,High,Low,High,Manure,Chennai,Summer
+Radish,Raphanus sativus,Herb,Yes,No,32,74,Shade,Subtropical,Silt,6.3,High,Weekly,19,33,Good,No,Caterpillars,None,Low,Low,Medium,Vermicompost,Mumbai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,23,44,Full Sun,Tropical,Silt,7.0,Low,Daily,7,100,Bad,Yes,None,Viral,Medium,Medium,Low,Compost,Mumbai,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,20,85,Partial Shade,Tropical,Peaty,6.7,Medium,Weekly,12,57,Bad,No,Fungal,None,Medium,Low,High,Vermicompost,Hyderabad,Monsoon
+Mint,Mentha,Herb,Yes,Yes,21,56,Full Sun,Tropical,Loam,5.7,Medium,Daily,16,74,Good,Yes,Caterpillars,Viral,High,Low,High,Compost,Chennai,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,17,83,Shade,Temperate,Peaty,5.6,Medium,Weekly,16,110,Good,No,Fungal,Fungal,Medium,Low,Medium,Compost,Bangalore,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,19,77,Full Sun,Tropical,Sandy,7.0,Low,Daily,6,46,Good,No,None,None,Low,High,High,Vermicompost,Mumbai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,28,65,Partial Shade,Temperate,Sandy,5.5,Low,Daily,17,41,Good,No,Fungal,Fungal,Medium,High,Medium,Vermicompost,Delhi,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,29,52,Shade,Tropical,Loam,6.7,Low,Weekly,5,98,Good,Yes,Caterpillars,Bacterial,High,Medium,Medium,Manure,Hyderabad,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,89,Partial Shade,Subtropical,Loam,6.2,Low,Daily,19,41,Bad,Yes,None,None,Medium,Low,Medium,Manure,Mumbai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,56,Partial Shade,Subtropical,Clay,5.9,High,Daily,10,40,Good,No,Aphids,Viral,Low,Low,Low,Vermicompost,Hyderabad,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,24,62,Shade,Temperate,Silt,5.9,Low,Daily,9,102,Bad,Yes,None,Fungal,Medium,High,High,Manure,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,25,43,Full Sun,Temperate,Peaty,6.7,Medium,Daily,20,110,Bad,Yes,Caterpillars,Fungal,High,High,Medium,Vermicompost,Mumbai,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,23,73,Full Sun,Subtropical,Loam,7.2,High,Weekly,9,95,Bad,No,Fungal,Fungal,High,Medium,Medium,Compost,Delhi,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,19,41,Partial Shade,Subtropical,Sandy,6.1,Medium,Weekly,19,105,Good,Yes,Fungal,None,High,Medium,Low,Compost,Mumbai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,30,50,Shade,Tropical,Loam,6.7,High,Daily,17,96,Bad,No,Fungal,Fungal,Medium,Low,High,Manure,Delhi,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,16,71,Full Sun,Tropical,Clay,5.8,Medium,Weekly,14,43,Bad,Yes,None,Fungal,Low,Low,Medium,Vermicompost,Delhi,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,18,83,Partial Shade,Arid,Loam,7.0,Low,Weekly,8,34,Bad,Yes,None,None,Low,High,Low,Vermicompost,Chennai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,28,43,Shade,Tropical,Peaty,6.3,Medium,Daily,20,75,Bad,No,Caterpillars,Viral,Low,Medium,Low,Compost,Hyderabad,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,32,54,Partial Shade,Arid,Silt,5.7,Low,Weekly,11,100,Bad,No,Fungal,None,High,Medium,Medium,Vermicompost,Hyderabad,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,16,65,Partial Shade,Arid,Clay,6.8,Low,Daily,11,49,Bad,No,Caterpillars,Viral,Medium,Low,High,Manure,Chennai,Winter
+Mint,Mentha,Herb,Yes,Yes,33,88,Shade,Subtropical,Clay,7.0,Low,Weekly,15,79,Bad,Yes,Bacterial,Fungal,Medium,High,Low,Compost,Hyderabad,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,21,65,Partial Shade,Tropical,Clay,6.0,Low,Daily,19,117,Good,Yes,Caterpillars,None,High,High,Low,Compost,Delhi,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,18,48,Partial Shade,Arid,Clay,6.7,Medium,Weekly,18,83,Good,No,Aphids,Fungal,Medium,Medium,Low,Compost,Mumbai,Winter
+Carrot,Daucus carota,Herb,Yes,No,21,90,Shade,Temperate,Clay,6.9,Low,Daily,16,52,Good,No,Bacterial,Viral,Medium,Medium,High,Manure,Hyderabad,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,24,90,Shade,Temperate,Loam,6.8,Medium,Weekly,20,52,Bad,No,Fungal,None,Medium,Low,Medium,Manure,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,20,40,Shade,Temperate,Peaty,6.1,Medium,Weekly,15,105,Bad,No,Aphids,None,High,Low,Low,Vermicompost,Hyderabad,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,24,64,Shade,Tropical,Peaty,6.9,High,Daily,17,119,Good,No,None,Viral,Medium,Medium,Medium,Vermicompost,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,30,58,Full Sun,Tropical,Loam,6.2,Low,Daily,6,84,Bad,Yes,Bacterial,Viral,Low,Medium,High,Manure,Delhi,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,17,84,Shade,Arid,Peaty,6.0,High,Daily,18,106,Bad,Yes,Fungal,None,Medium,Low,Medium,Vermicompost,Hyderabad,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,24,71,Full Sun,Arid,Loam,6.2,High,Weekly,18,55,Good,No,Aphids,Fungal,Low,Medium,Low,Compost,Hyderabad,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,32,63,Full Sun,Subtropical,Peaty,6.0,Medium,Weekly,6,70,Good,No,None,Bacterial,High,Low,Low,Vermicompost,Mumbai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,26,44,Partial Shade,Arid,Loam,7.3,Medium,Daily,11,93,Bad,Yes,Fungal,Fungal,Medium,High,Medium,Vermicompost,Bangalore,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,23,41,Shade,Arid,Clay,6.4,Medium,Weekly,8,98,Bad,No,Caterpillars,None,Low,Low,Low,Manure,Chennai,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,22,66,Partial Shade,Arid,Clay,6.5,High,Weekly,17,116,Bad,No,Fungal,Bacterial,Medium,Low,Medium,Vermicompost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,29,45,Shade,Temperate,Clay,6.0,Medium,Daily,13,109,Good,Yes,Bacterial,Fungal,Low,Low,Medium,Manure,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,34,80,Full Sun,Tropical,Peaty,5.9,Medium,Daily,17,107,Bad,Yes,None,None,Low,Medium,High,Manure,Mumbai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,33,41,Partial Shade,Temperate,Loam,7.2,High,Daily,11,87,Bad,No,None,Fungal,High,Medium,High,Compost,Bangalore,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,24,58,Full Sun,Temperate,Silt,6.8,High,Weekly,8,33,Bad,Yes,Aphids,Fungal,Medium,Medium,Medium,Compost,Mumbai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,21,44,Full Sun,Temperate,Peaty,7.1,Medium,Daily,9,84,Bad,Yes,None,None,High,Low,Medium,Vermicompost,Bangalore,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,33,76,Full Sun,Subtropical,Clay,6.2,Low,Daily,18,118,Good,Yes,Bacterial,None,Medium,High,High,Compost,Bangalore,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,32,41,Partial Shade,Subtropical,Silt,7.0,Low,Weekly,10,44,Bad,Yes,None,Bacterial,High,Medium,Medium,Compost,Delhi,Winter
+Radish,Raphanus sativus,Herb,Yes,No,17,53,Partial Shade,Tropical,Peaty,7.5,Medium,Daily,16,120,Bad,Yes,Fungal,Viral,Medium,Medium,Low,Compost,Chennai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,20,63,Full Sun,Temperate,Sandy,6.4,Low,Weekly,6,107,Bad,No,Aphids,None,Low,Medium,Low,Manure,Chennai,Monsoon
+Mint,Mentha,Herb,Yes,Yes,18,46,Partial Shade,Temperate,Sandy,6.0,Low,Daily,10,101,Good,No,Fungal,None,Medium,Low,Medium,Vermicompost,Bangalore,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,18,90,Partial Shade,Arid,Sandy,7.4,High,Weekly,20,44,Good,No,Bacterial,None,High,Low,Low,Manure,Bangalore,Monsoon
+Mint,Mentha,Herb,Yes,Yes,28,73,Shade,Subtropical,Sandy,7.2,Medium,Weekly,18,89,Good,No,Fungal,Bacterial,High,Medium,High,Compost,Hyderabad,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,25,65,Partial Shade,Arid,Silt,6.5,Medium,Daily,20,120,Bad,Yes,Bacterial,Bacterial,Low,Low,High,Manure,Bangalore,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,25,56,Partial Shade,Temperate,Loam,5.8,High,Daily,13,56,Bad,No,None,Fungal,Low,High,High,Manure,Mumbai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,22,46,Full Sun,Subtropical,Sandy,5.6,High,Daily,11,120,Bad,Yes,Caterpillars,Bacterial,High,High,Low,Manure,Hyderabad,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,16,63,Partial Shade,Temperate,Loam,6.6,Low,Weekly,11,95,Good,Yes,Caterpillars,Fungal,Low,Medium,High,Vermicompost,Delhi,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,30,60,Shade,Arid,Peaty,6.3,High,Daily,7,52,Good,No,None,Fungal,High,Medium,High,Vermicompost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,24,43,Partial Shade,Arid,Silt,6.6,Medium,Daily,6,55,Good,Yes,Bacterial,Viral,High,High,Medium,Compost,Chennai,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,33,85,Shade,Subtropical,Silt,6.1,Low,Daily,11,49,Bad,Yes,None,Viral,High,Low,Medium,Compost,Hyderabad,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,28,70,Partial Shade,Temperate,Loam,6.1,High,Daily,13,69,Bad,No,Fungal,Viral,Low,High,Medium,Vermicompost,Mumbai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,22,64,Partial Shade,Temperate,Loam,7.3,Medium,Weekly,5,95,Good,Yes,None,Fungal,High,High,Medium,Vermicompost,Bangalore,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,21,67,Partial Shade,Arid,Loam,6.0,Low,Daily,5,41,Good,Yes,Aphids,None,High,Medium,High,Vermicompost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,34,41,Full Sun,Temperate,Peaty,6.9,High,Weekly,16,96,Bad,No,None,Bacterial,High,Low,Low,Vermicompost,Mumbai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,46,Partial Shade,Temperate,Clay,7.2,High,Daily,16,38,Good,No,Aphids,Fungal,Medium,Low,High,Vermicompost,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,17,48,Partial Shade,Subtropical,Loam,6.7,High,Weekly,18,78,Bad,Yes,None,None,High,High,Medium,Manure,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,25,78,Partial Shade,Arid,Loam,5.6,Low,Daily,10,37,Good,Yes,Aphids,Fungal,High,High,High,Compost,Bangalore,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,27,79,Full Sun,Temperate,Silt,5.6,Low,Daily,6,55,Good,No,Caterpillars,None,Low,Medium,High,Manure,Delhi,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,27,84,Full Sun,Subtropical,Clay,7.0,Low,Daily,12,93,Bad,Yes,Aphids,Fungal,Medium,Low,Low,Compost,Mumbai,Summer
+Mint,Mentha,Herb,Yes,Yes,30,47,Partial Shade,Tropical,Peaty,6.1,Medium,Weekly,19,111,Good,No,Fungal,Fungal,Medium,High,Low,Vermicompost,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,34,53,Full Sun,Tropical,Silt,5.7,Medium,Daily,13,39,Good,No,Caterpillars,None,High,Low,Medium,Compost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,27,40,Partial Shade,Subtropical,Clay,5.9,Low,Daily,5,67,Bad,No,Fungal,Fungal,High,High,Medium,Manure,Delhi,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,28,72,Shade,Tropical,Clay,7.0,High,Weekly,14,88,Bad,No,Fungal,Fungal,High,Low,High,Manure,Mumbai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,16,80,Full Sun,Temperate,Loam,6.0,Medium,Weekly,10,89,Good,No,Caterpillars,None,Medium,Medium,Low,Compost,Delhi,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,21,74,Full Sun,Tropical,Sandy,7.3,Low,Daily,7,41,Good,Yes,None,None,High,Low,Medium,Compost,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,16,65,Partial Shade,Subtropical,Peaty,5.7,High,Daily,10,67,Good,Yes,None,Fungal,High,Medium,Low,Manure,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,17,68,Partial Shade,Subtropical,Clay,6.1,Medium,Weekly,19,63,Good,Yes,Bacterial,Fungal,High,Medium,Low,Compost,Chennai,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,28,67,Shade,Subtropical,Loam,6.4,Low,Daily,19,36,Bad,Yes,Fungal,Bacterial,High,High,Low,Compost,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,32,45,Partial Shade,Temperate,Clay,6.1,High,Weekly,17,36,Bad,Yes,Caterpillars,Viral,Medium,Low,High,Vermicompost,Bangalore,Winter
+Mint,Mentha,Herb,Yes,Yes,35,49,Shade,Subtropical,Silt,6.4,Low,Weekly,11,109,Bad,Yes,Bacterial,Bacterial,Medium,Low,High,Manure,Delhi,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,25,82,Full Sun,Tropical,Peaty,6.6,High,Weekly,10,82,Good,No,Caterpillars,None,Low,High,High,Manure,Chennai,Winter
+Mint,Mentha,Herb,Yes,Yes,33,67,Full Sun,Tropical,Clay,7.0,High,Weekly,15,43,Bad,No,Aphids,Viral,Medium,High,Low,Vermicompost,Hyderabad,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,23,87,Full Sun,Temperate,Sandy,5.9,High,Weekly,10,39,Good,No,Aphids,None,Medium,Medium,Medium,Vermicompost,Bangalore,Winter
+Radish,Raphanus sativus,Herb,Yes,No,19,62,Partial Shade,Tropical,Silt,6.2,Medium,Weekly,18,88,Bad,Yes,Aphids,Viral,Low,High,Medium,Manure,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,27,70,Partial Shade,Arid,Silt,5.5,Medium,Weekly,19,105,Bad,Yes,Caterpillars,None,Medium,Medium,High,Manure,Mumbai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,32,83,Partial Shade,Subtropical,Loam,7.3,Low,Daily,19,40,Good,Yes,Bacterial,Fungal,High,High,High,Manure,Mumbai,Summer
+Carrot,Daucus carota,Herb,Yes,No,32,82,Shade,Arid,Sandy,7.1,Medium,Weekly,10,111,Good,Yes,Fungal,Viral,Medium,Low,High,Vermicompost,Hyderabad,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,21,47,Partial Shade,Temperate,Silt,5.9,Low,Daily,7,42,Good,No,Caterpillars,Viral,Low,Low,High,Compost,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,22,82,Full Sun,Tropical,Clay,6.7,Medium,Daily,17,70,Bad,No,Bacterial,None,High,Medium,Low,Vermicompost,Chennai,Monsoon
+Mint,Mentha,Herb,Yes,Yes,18,74,Partial Shade,Tropical,Silt,7.0,Medium,Daily,11,95,Good,Yes,Fungal,None,Medium,High,Medium,Compost,Delhi,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,47,Shade,Subtropical,Loam,6.9,Low,Daily,15,109,Bad,No,Bacterial,None,Medium,Medium,High,Compost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,26,50,Partial Shade,Subtropical,Clay,7.3,Low,Weekly,16,112,Bad,No,Aphids,Viral,High,High,Medium,Vermicompost,Chennai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,34,77,Shade,Tropical,Sandy,5.8,Medium,Daily,9,51,Good,Yes,Caterpillars,Bacterial,Medium,Low,Medium,Manure,Hyderabad,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,22,47,Full Sun,Temperate,Peaty,5.8,Medium,Daily,8,56,Bad,Yes,None,Viral,High,High,Low,Vermicompost,Delhi,Winter
+Mint,Mentha,Herb,Yes,Yes,25,42,Full Sun,Subtropical,Loam,7.3,Low,Daily,13,48,Good,Yes,None,Bacterial,Medium,Low,Low,Vermicompost,Chennai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,23,50,Shade,Subtropical,Loam,7.4,High,Daily,20,94,Bad,No,Fungal,Fungal,Medium,Low,Medium,Manure,Delhi,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,35,58,Partial Shade,Tropical,Silt,6.9,Medium,Weekly,16,45,Good,No,Aphids,None,High,Low,Medium,Compost,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,29,77,Shade,Subtropical,Sandy,6.6,Medium,Weekly,20,115,Bad,Yes,None,Fungal,High,High,High,Manure,Hyderabad,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,35,45,Shade,Subtropical,Loam,7.4,High,Weekly,9,116,Good,No,Caterpillars,None,Medium,Medium,Medium,Vermicompost,Hyderabad,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,32,53,Full Sun,Tropical,Clay,7.2,Medium,Weekly,18,61,Good,Yes,Fungal,None,Low,Low,Low,Manure,Mumbai,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,20,67,Full Sun,Subtropical,Silt,5.8,Low,Weekly,7,68,Bad,No,Aphids,Viral,High,Low,Medium,Vermicompost,Hyderabad,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,30,54,Partial Shade,Tropical,Peaty,6.2,Low,Weekly,12,86,Good,Yes,None,Fungal,Low,Medium,Low,Vermicompost,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,17,49,Shade,Temperate,Clay,7.2,High,Daily,18,61,Good,Yes,None,None,High,Low,High,Vermicompost,Mumbai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,21,61,Partial Shade,Temperate,Peaty,5.8,Low,Weekly,13,61,Good,Yes,Caterpillars,Viral,High,High,High,Manure,Hyderabad,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,26,44,Shade,Arid,Sandy,7.0,Medium,Weekly,14,107,Good,Yes,Bacterial,Fungal,Medium,Medium,Low,Vermicompost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,15,83,Full Sun,Tropical,Clay,6.4,Low,Weekly,6,31,Good,Yes,None,Bacterial,Low,High,Medium,Compost,Delhi,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,15,41,Partial Shade,Arid,Loam,7.4,High,Weekly,14,68,Good,No,Aphids,Bacterial,High,Low,Medium,Vermicompost,Hyderabad,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,80,Full Sun,Subtropical,Loam,6.1,Medium,Weekly,14,63,Bad,Yes,Bacterial,Viral,High,Low,Low,Manure,Mumbai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,28,85,Full Sun,Subtropical,Silt,7.5,Low,Weekly,9,101,Bad,No,Fungal,Fungal,Low,High,Low,Manure,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,31,86,Full Sun,Tropical,Clay,6.0,High,Daily,6,49,Good,No,Fungal,Bacterial,High,Low,Medium,Manure,Delhi,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,16,66,Full Sun,Subtropical,Loam,6.9,High,Daily,14,104,Good,No,Aphids,Fungal,Low,Low,High,Compost,Mumbai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,18,46,Shade,Arid,Sandy,7.1,Medium,Daily,20,36,Bad,No,Bacterial,Bacterial,Low,Low,Low,Compost,Mumbai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,15,88,Partial Shade,Arid,Sandy,6.0,High,Weekly,19,114,Bad,No,Bacterial,Viral,High,Medium,Low,Vermicompost,Bangalore,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,34,44,Partial Shade,Temperate,Silt,6.1,Medium,Weekly,15,96,Bad,No,Bacterial,Fungal,Medium,Medium,Low,Compost,Delhi,Monsoon
+Mint,Mentha,Herb,Yes,Yes,26,85,Partial Shade,Arid,Loam,5.7,High,Daily,17,90,Good,Yes,Fungal,Bacterial,Low,Low,High,Manure,Bangalore,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,30,51,Full Sun,Arid,Loam,7.2,High,Daily,7,117,Bad,No,None,Viral,Low,Medium,Low,Compost,Hyderabad,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,28,61,Shade,Subtropical,Loam,6.3,Medium,Daily,6,82,Bad,No,Bacterial,Viral,Medium,Medium,High,Compost,Mumbai,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,19,68,Partial Shade,Arid,Loam,6.1,High,Daily,11,90,Bad,No,Aphids,Viral,Medium,High,Low,Vermicompost,Chennai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,26,42,Full Sun,Tropical,Sandy,6.5,Low,Weekly,13,61,Good,Yes,Aphids,Bacterial,Medium,Low,Medium,Compost,Mumbai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,27,50,Shade,Arid,Silt,6.5,Low,Weekly,9,30,Good,No,Fungal,None,Medium,Low,Medium,Vermicompost,Mumbai,Winter
+Mint,Mentha,Herb,Yes,Yes,16,67,Full Sun,Temperate,Clay,6.2,Low,Daily,16,38,Bad,Yes,Aphids,Viral,High,High,High,Manure,Chennai,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,18,53,Full Sun,Temperate,Silt,6.7,High,Daily,20,46,Bad,No,None,None,Low,High,Low,Compost,Delhi,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,25,86,Shade,Subtropical,Loam,7.2,High,Daily,12,113,Bad,No,Bacterial,Fungal,Medium,Low,High,Compost,Chennai,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,18,43,Partial Shade,Tropical,Peaty,6.3,Low,Daily,15,60,Bad,No,Caterpillars,None,Low,High,Medium,Manure,Bangalore,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,29,59,Partial Shade,Tropical,Sandy,6.1,Low,Weekly,7,91,Bad,No,Aphids,None,Medium,Low,Low,Manure,Hyderabad,Winter
+Carrot,Daucus carota,Herb,Yes,No,15,44,Full Sun,Arid,Silt,5.8,Low,Daily,17,113,Bad,No,Fungal,None,Medium,Medium,Low,Vermicompost,Mumbai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,28,70,Shade,Tropical,Clay,5.6,Medium,Daily,14,100,Bad,No,None,None,Medium,High,Medium,Manure,Delhi,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,26,44,Full Sun,Subtropical,Clay,6.1,Medium,Daily,5,102,Good,Yes,Fungal,Viral,Low,Low,Low,Manure,Bangalore,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,16,44,Full Sun,Arid,Clay,5.6,Medium,Daily,9,85,Bad,No,Bacterial,Viral,High,Low,Low,Vermicompost,Mumbai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,20,77,Shade,Temperate,Sandy,7.0,Medium,Daily,17,45,Good,Yes,Aphids,Viral,Medium,High,Low,Manure,Bangalore,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,26,48,Full Sun,Tropical,Sandy,5.8,Low,Weekly,20,34,Good,No,None,Bacterial,Low,Medium,Medium,Vermicompost,Delhi,Winter
+Mint,Mentha,Herb,Yes,Yes,16,65,Shade,Arid,Clay,7.3,Medium,Daily,7,69,Good,Yes,None,None,Medium,Low,Low,Vermicompost,Mumbai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,33,51,Partial Shade,Subtropical,Peaty,5.6,High,Weekly,10,69,Bad,Yes,None,Fungal,Medium,Low,Medium,Manure,Mumbai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,27,58,Full Sun,Temperate,Sandy,6.4,Medium,Daily,10,54,Good,No,Aphids,Bacterial,High,Medium,Medium,Manure,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,16,60,Partial Shade,Arid,Sandy,7.1,Medium,Weekly,13,107,Good,Yes,Caterpillars,Viral,High,Medium,Low,Compost,Delhi,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,64,Shade,Arid,Clay,5.9,Low,Weekly,15,67,Bad,Yes,Aphids,None,Medium,Low,High,Vermicompost,Hyderabad,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,35,74,Shade,Tropical,Silt,6.7,Low,Weekly,6,68,Good,No,Bacterial,Viral,Low,Low,Low,Compost,Chennai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,24,89,Full Sun,Subtropical,Silt,5.6,Medium,Daily,10,39,Good,No,Aphids,Fungal,Medium,Low,High,Manure,Mumbai,Summer
+Carrot,Daucus carota,Herb,Yes,No,16,62,Shade,Temperate,Peaty,7.1,Low,Weekly,16,47,Bad,Yes,Fungal,Fungal,Low,Medium,Medium,Manure,Bangalore,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,78,Shade,Temperate,Peaty,6.4,Low,Daily,12,66,Good,Yes,None,None,High,High,Medium,Manure,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,19,50,Shade,Tropical,Silt,5.8,High,Weekly,13,117,Bad,No,Caterpillars,Fungal,High,Medium,High,Vermicompost,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,34,48,Partial Shade,Subtropical,Loam,7.4,High,Weekly,15,94,Good,Yes,Bacterial,None,High,Medium,High,Manure,Bangalore,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,29,88,Shade,Temperate,Sandy,6.2,Low,Daily,9,120,Bad,Yes,Caterpillars,None,High,Medium,Low,Manure,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,35,90,Shade,Subtropical,Clay,6.7,Medium,Daily,17,117,Good,Yes,Caterpillars,None,High,Low,Medium,Vermicompost,Hyderabad,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,21,41,Shade,Arid,Sandy,6.2,Low,Weekly,16,94,Good,Yes,None,Fungal,High,Low,High,Compost,Chennai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,27,67,Partial Shade,Arid,Sandy,7.2,Low,Weekly,5,61,Bad,Yes,Bacterial,Fungal,Low,Medium,Low,Vermicompost,Delhi,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,23,72,Full Sun,Temperate,Sandy,6.1,Medium,Weekly,18,99,Bad,No,Bacterial,None,High,Low,Low,Compost,Chennai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,31,76,Shade,Tropical,Loam,6.0,Medium,Daily,13,82,Good,No,Fungal,Viral,Low,High,Medium,Manure,Chennai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,24,57,Shade,Arid,Clay,7.5,High,Weekly,10,99,Good,Yes,Bacterial,Bacterial,Low,High,High,Manure,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,15,84,Partial Shade,Temperate,Loam,6.7,Low,Weekly,15,32,Good,Yes,Fungal,Bacterial,Medium,High,Medium,Compost,Bangalore,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,30,43,Shade,Temperate,Peaty,6.7,Low,Daily,8,80,Bad,Yes,Fungal,None,Low,Low,High,Vermicompost,Hyderabad,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,60,Shade,Temperate,Silt,5.7,High,Daily,12,39,Good,No,Aphids,None,Medium,Medium,Low,Manure,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,30,71,Full Sun,Subtropical,Clay,5.8,Medium,Daily,20,52,Good,No,Caterpillars,Bacterial,Medium,High,Low,Compost,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,31,63,Shade,Subtropical,Peaty,5.9,High,Daily,20,39,Good,No,Aphids,Fungal,Low,Medium,Low,Manure,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,20,69,Full Sun,Arid,Silt,6.6,Medium,Daily,9,103,Bad,No,Caterpillars,None,High,High,Low,Manure,Hyderabad,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,19,67,Partial Shade,Arid,Loam,6.2,Low,Weekly,19,107,Good,Yes,Fungal,None,Medium,Low,Medium,Compost,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,15,68,Partial Shade,Subtropical,Sandy,6.8,High,Daily,20,56,Bad,Yes,Bacterial,None,Low,Medium,Low,Vermicompost,Mumbai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,20,69,Partial Shade,Subtropical,Loam,7.3,High,Daily,11,91,Good,Yes,Caterpillars,None,Medium,Medium,High,Compost,Bangalore,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,21,90,Full Sun,Subtropical,Loam,5.9,High,Daily,7,59,Good,No,Caterpillars,Bacterial,Medium,Low,Medium,Vermicompost,Mumbai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,26,79,Full Sun,Temperate,Loam,6.1,Low,Daily,14,72,Bad,No,Bacterial,Bacterial,Low,Low,Medium,Manure,Chennai,Winter
+Mint,Mentha,Herb,Yes,Yes,33,49,Full Sun,Arid,Clay,6.9,High,Daily,16,111,Bad,No,Caterpillars,None,Low,Low,Medium,Compost,Bangalore,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,35,40,Partial Shade,Subtropical,Clay,6.7,Medium,Daily,9,107,Good,Yes,None,Bacterial,Medium,Medium,Medium,Manure,Bangalore,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,27,64,Shade,Arid,Loam,6.6,Medium,Daily,8,38,Bad,Yes,Caterpillars,None,Low,High,Medium,Manure,Chennai,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,21,64,Shade,Arid,Loam,7.1,High,Weekly,10,70,Good,No,Caterpillars,None,High,Low,High,Compost,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,32,55,Partial Shade,Subtropical,Silt,6.7,Low,Weekly,13,113,Bad,Yes,Aphids,Viral,Medium,Low,Medium,Vermicompost,Bangalore,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,23,71,Shade,Subtropical,Loam,6.1,High,Weekly,16,48,Bad,Yes,Aphids,Bacterial,High,Low,Medium,Manure,Bangalore,Winter
+Carrot,Daucus carota,Herb,Yes,No,17,62,Partial Shade,Subtropical,Loam,7.3,High,Daily,10,87,Bad,No,Bacterial,Viral,Low,Medium,Low,Compost,Delhi,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,18,85,Shade,Subtropical,Clay,7.2,Medium,Weekly,14,39,Good,Yes,Aphids,None,Low,Low,High,Manure,Mumbai,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,22,88,Shade,Temperate,Silt,7.0,Medium,Weekly,10,78,Good,Yes,Fungal,Fungal,High,High,Medium,Vermicompost,Delhi,Winter
+Carrot,Daucus carota,Herb,Yes,No,31,58,Partial Shade,Tropical,Clay,5.7,Medium,Daily,6,57,Bad,No,None,Fungal,High,High,Medium,Manure,Chennai,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,19,83,Shade,Tropical,Silt,5.7,High,Weekly,11,119,Bad,No,Bacterial,Viral,Medium,High,Medium,Vermicompost,Bangalore,Winter
+Mint,Mentha,Herb,Yes,Yes,18,59,Partial Shade,Tropical,Clay,6.0,Medium,Weekly,15,89,Good,No,None,Fungal,Medium,Medium,High,Vermicompost,Bangalore,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,34,89,Partial Shade,Subtropical,Loam,7.1,High,Daily,8,90,Bad,Yes,Aphids,Viral,Low,Low,Medium,Compost,Mumbai,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,34,56,Shade,Arid,Silt,6.4,Medium,Daily,20,89,Bad,Yes,Caterpillars,Fungal,Medium,Low,Low,Manure,Mumbai,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,34,81,Partial Shade,Temperate,Clay,6.9,Low,Daily,17,95,Bad,No,Fungal,None,Low,Medium,High,Compost,Hyderabad,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,20,40,Partial Shade,Subtropical,Loam,5.7,Medium,Daily,13,79,Good,Yes,Caterpillars,None,High,Medium,High,Manure,Delhi,Monsoon
+Mint,Mentha,Herb,Yes,Yes,18,82,Full Sun,Subtropical,Clay,6.0,High,Daily,15,77,Good,No,Fungal,Viral,Medium,High,Low,Compost,Chennai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,19,69,Full Sun,Temperate,Clay,5.6,Low,Daily,15,116,Bad,No,Fungal,Viral,High,Medium,Medium,Vermicompost,Mumbai,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,16,75,Full Sun,Subtropical,Silt,6.9,Medium,Weekly,9,96,Good,Yes,Aphids,Bacterial,Medium,High,Medium,Vermicompost,Delhi,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,26,55,Shade,Subtropical,Peaty,5.5,High,Weekly,13,101,Good,No,Fungal,Bacterial,Medium,Medium,Low,Manure,Chennai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,22,68,Full Sun,Tropical,Clay,5.9,High,Weekly,7,84,Bad,No,Fungal,Bacterial,Low,Low,High,Vermicompost,Mumbai,Summer
+Mint,Mentha,Herb,Yes,Yes,20,70,Partial Shade,Temperate,Sandy,5.8,Medium,Daily,14,105,Good,No,Caterpillars,Fungal,High,Medium,Low,Manure,Mumbai,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,16,45,Full Sun,Tropical,Loam,6.0,High,Weekly,11,76,Bad,No,None,None,High,Medium,Medium,Vermicompost,Hyderabad,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,24,90,Partial Shade,Temperate,Clay,7.3,Low,Weekly,17,44,Bad,No,None,None,Low,Medium,High,Compost,Bangalore,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,20,56,Shade,Tropical,Silt,6.3,High,Weekly,16,114,Bad,Yes,Caterpillars,Bacterial,Medium,Medium,Low,Vermicompost,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,23,78,Partial Shade,Subtropical,Loam,6.8,Low,Weekly,12,46,Good,Yes,Fungal,Fungal,Low,High,Low,Vermicompost,Bangalore,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,17,85,Partial Shade,Tropical,Silt,7.5,Medium,Weekly,17,30,Good,Yes,Fungal,Viral,High,Low,Medium,Vermicompost,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,24,55,Full Sun,Tropical,Sandy,6.0,Medium,Daily,9,120,Bad,No,None,None,High,Medium,Medium,Compost,Mumbai,Winter
+Mint,Mentha,Herb,Yes,Yes,33,51,Shade,Subtropical,Clay,6.0,Medium,Daily,9,60,Bad,No,None,Fungal,High,Low,High,Manure,Delhi,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,18,55,Full Sun,Subtropical,Sandy,6.3,Medium,Daily,14,102,Bad,Yes,Fungal,Fungal,Low,High,High,Vermicompost,Bangalore,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,46,Partial Shade,Temperate,Clay,6.5,High,Daily,8,35,Good,No,Caterpillars,Fungal,Medium,High,Medium,Compost,Chennai,Summer
+Radish,Raphanus sativus,Herb,Yes,No,20,88,Shade,Arid,Silt,5.6,Low,Weekly,6,106,Good,Yes,Bacterial,Viral,High,Low,High,Manure,Chennai,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,35,42,Full Sun,Arid,Peaty,7.4,Low,Daily,12,100,Good,Yes,Aphids,Bacterial,Medium,High,Low,Manure,Chennai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,33,46,Shade,Tropical,Clay,7.0,Low,Weekly,8,91,Good,Yes,Bacterial,Bacterial,Medium,High,High,Compost,Bangalore,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,17,88,Partial Shade,Tropical,Sandy,7.4,Medium,Weekly,8,111,Good,Yes,None,Bacterial,High,High,High,Manure,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,24,56,Shade,Subtropical,Sandy,5.9,High,Daily,10,112,Bad,Yes,Aphids,Bacterial,High,High,High,Vermicompost,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,34,80,Full Sun,Temperate,Clay,5.7,High,Daily,16,79,Bad,Yes,Fungal,Viral,Medium,Medium,High,Compost,Hyderabad,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,24,86,Partial Shade,Arid,Silt,6.0,Medium,Daily,10,39,Good,No,Bacterial,Viral,High,Low,Medium,Manure,Hyderabad,Winter
+Mint,Mentha,Herb,Yes,Yes,15,74,Shade,Temperate,Peaty,5.8,Low,Weekly,8,63,Good,No,Fungal,Fungal,Medium,Low,High,Compost,Mumbai,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,28,85,Partial Shade,Temperate,Loam,5.8,Low,Weekly,12,105,Bad,No,Bacterial,Bacterial,Low,Low,High,Manure,Delhi,Winter
+Radish,Raphanus sativus,Herb,Yes,No,26,81,Partial Shade,Subtropical,Clay,6.3,High,Daily,11,62,Good,Yes,Aphids,None,Low,High,High,Manure,Mumbai,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,20,58,Shade,Arid,Clay,6.4,Low,Weekly,18,92,Bad,Yes,None,Fungal,High,Low,Low,Vermicompost,Delhi,Winter
+Mint,Mentha,Herb,Yes,Yes,32,89,Full Sun,Subtropical,Clay,6.9,High,Weekly,13,101,Bad,No,Bacterial,None,High,Low,Medium,Compost,Hyderabad,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,19,45,Shade,Subtropical,Sandy,6.7,Low,Weekly,5,40,Bad,Yes,Aphids,Fungal,Low,Low,High,Vermicompost,Bangalore,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,17,74,Partial Shade,Arid,Sandy,6.9,Medium,Daily,11,115,Bad,No,Caterpillars,Fungal,Medium,High,Medium,Compost,Delhi,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,29,53,Full Sun,Subtropical,Loam,7.0,High,Weekly,15,113,Bad,Yes,Aphids,Fungal,High,Low,Low,Vermicompost,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,19,90,Partial Shade,Temperate,Silt,6.1,Medium,Daily,12,119,Good,No,Caterpillars,Fungal,Medium,High,High,Compost,Chennai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,20,79,Full Sun,Temperate,Clay,6.2,Low,Weekly,7,119,Bad,No,Aphids,Bacterial,Low,High,High,Manure,Chennai,Summer
+Radish,Raphanus sativus,Herb,Yes,No,21,81,Shade,Temperate,Peaty,6.8,Medium,Daily,17,92,Bad,Yes,Bacterial,Bacterial,High,Medium,Medium,Compost,Hyderabad,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,19,47,Full Sun,Tropical,Peaty,5.8,Low,Weekly,14,96,Good,No,Bacterial,None,High,Medium,Medium,Vermicompost,Mumbai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,27,90,Partial Shade,Temperate,Peaty,5.7,Low,Daily,6,93,Good,No,None,Viral,Medium,High,High,Manure,Delhi,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,70,Partial Shade,Temperate,Sandy,6.4,High,Weekly,16,53,Good,Yes,None,None,High,Medium,Low,Vermicompost,Chennai,Winter
+Radish,Raphanus sativus,Herb,Yes,No,24,59,Partial Shade,Tropical,Loam,6.9,High,Daily,7,67,Bad,No,None,Bacterial,Low,Low,High,Manure,Hyderabad,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,22,79,Shade,Subtropical,Silt,7.0,High,Weekly,6,101,Good,Yes,Aphids,Viral,High,High,Medium,Vermicompost,Mumbai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,34,40,Partial Shade,Tropical,Clay,6.4,Low,Weekly,18,56,Good,Yes,Aphids,Viral,Medium,Low,Low,Manure,Bangalore,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,25,54,Full Sun,Subtropical,Clay,6.4,Low,Weekly,5,43,Bad,No,Bacterial,Fungal,High,Medium,Low,Compost,Bangalore,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,35,57,Partial Shade,Arid,Sandy,6.9,Medium,Weekly,9,33,Good,No,Caterpillars,Fungal,Medium,High,Medium,Compost,Bangalore,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,29,85,Partial Shade,Subtropical,Loam,7.0,Low,Daily,18,101,Bad,Yes,None,None,Medium,High,Medium,Vermicompost,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,74,Full Sun,Temperate,Clay,6.2,High,Weekly,16,73,Good,No,Fungal,Bacterial,Medium,Low,Low,Vermicompost,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,30,49,Full Sun,Subtropical,Loam,7.3,Medium,Daily,18,63,Good,Yes,Aphids,Fungal,Medium,High,Medium,Manure,Mumbai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,35,45,Partial Shade,Temperate,Loam,6.3,High,Weekly,6,88,Bad,Yes,Caterpillars,Viral,Low,Medium,Low,Compost,Delhi,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,27,87,Shade,Temperate,Silt,6.7,High,Daily,7,94,Good,Yes,Caterpillars,Fungal,High,Low,High,Compost,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,32,61,Full Sun,Arid,Loam,6.6,High,Daily,20,65,Good,No,Fungal,Fungal,Medium,High,High,Vermicompost,Chennai,Summer
+Carrot,Daucus carota,Herb,Yes,No,17,58,Shade,Arid,Sandy,7.5,Low,Weekly,19,47,Bad,Yes,Aphids,Bacterial,Low,Medium,High,Manure,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,22,43,Full Sun,Temperate,Clay,6.8,High,Weekly,18,85,Good,No,Aphids,Viral,Low,Low,High,Vermicompost,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,15,66,Partial Shade,Subtropical,Loam,6.1,Low,Daily,14,57,Bad,Yes,Bacterial,Bacterial,Low,Low,Medium,Compost,Delhi,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,29,88,Full Sun,Tropical,Sandy,7.3,High,Daily,13,80,Good,No,Fungal,Bacterial,Medium,High,Medium,Manure,Delhi,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,69,Full Sun,Arid,Loam,7.0,Low,Weekly,5,82,Bad,No,Caterpillars,Fungal,Medium,Medium,High,Manure,Chennai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,23,41,Full Sun,Subtropical,Silt,6.8,High,Daily,12,64,Good,Yes,Bacterial,None,High,Low,High,Manure,Bangalore,Summer
+Mint,Mentha,Herb,Yes,Yes,17,48,Shade,Tropical,Loam,6.9,High,Daily,7,111,Bad,No,Fungal,Fungal,High,Medium,High,Manure,Hyderabad,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,19,57,Partial Shade,Tropical,Silt,7.4,High,Weekly,18,102,Bad,Yes,Aphids,Viral,Medium,Medium,Medium,Vermicompost,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,19,51,Shade,Tropical,Clay,7.3,Low,Weekly,20,44,Bad,Yes,None,Bacterial,Medium,High,High,Vermicompost,Mumbai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,19,65,Partial Shade,Subtropical,Loam,5.5,High,Daily,10,50,Bad,Yes,Fungal,Bacterial,Low,Medium,Medium,Vermicompost,Hyderabad,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,29,44,Full Sun,Arid,Silt,5.6,Low,Daily,10,82,Bad,Yes,Caterpillars,Viral,Low,Medium,Low,Vermicompost,Bangalore,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,24,81,Partial Shade,Arid,Silt,6.0,Low,Daily,19,99,Bad,Yes,Fungal,Viral,Low,Medium,Low,Manure,Hyderabad,Summer
+Carrot,Daucus carota,Herb,Yes,No,19,72,Full Sun,Arid,Peaty,6.6,High,Daily,12,47,Good,No,Fungal,None,Low,Medium,Low,Compost,Chennai,Winter
+Mint,Mentha,Herb,Yes,Yes,21,57,Shade,Tropical,Silt,5.7,High,Weekly,17,84,Bad,No,Caterpillars,Fungal,Low,Low,Medium,Compost,Bangalore,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,22,55,Partial Shade,Subtropical,Peaty,6.0,Medium,Weekly,18,106,Good,No,None,Bacterial,Low,Low,Medium,Compost,Mumbai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,35,60,Shade,Subtropical,Sandy,6.5,High,Daily,19,97,Good,No,Aphids,Bacterial,Medium,Low,Medium,Manure,Bangalore,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,19,84,Partial Shade,Tropical,Sandy,6.9,Low,Daily,20,57,Good,Yes,Caterpillars,None,Low,High,High,Vermicompost,Mumbai,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,22,44,Shade,Tropical,Sandy,6.5,High,Daily,6,38,Bad,No,Bacterial,Fungal,Medium,High,Medium,Manure,Hyderabad,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,30,59,Partial Shade,Tropical,Clay,6.4,Medium,Weekly,8,112,Bad,No,None,Bacterial,Low,Medium,High,Compost,Delhi,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,22,67,Full Sun,Temperate,Loam,7.3,Low,Daily,7,103,Good,No,Aphids,Bacterial,Medium,Low,Low,Compost,Hyderabad,Summer
+Carrot,Daucus carota,Herb,Yes,No,16,81,Shade,Subtropical,Sandy,6.8,High,Weekly,17,85,Bad,Yes,Fungal,Fungal,Low,Medium,Low,Manure,Hyderabad,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,35,82,Partial Shade,Subtropical,Silt,7.2,Low,Daily,16,42,Bad,Yes,Bacterial,Viral,Medium,Low,Low,Manure,Bangalore,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,33,42,Full Sun,Tropical,Loam,6.5,High,Daily,12,117,Good,No,Bacterial,None,High,Medium,High,Manure,Chennai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,31,56,Shade,Subtropical,Silt,6.1,Low,Weekly,13,49,Bad,No,Aphids,None,Low,Low,Low,Manure,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,21,64,Partial Shade,Subtropical,Loam,7.5,Low,Weekly,17,72,Good,Yes,Fungal,Bacterial,High,Low,High,Vermicompost,Mumbai,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,16,80,Partial Shade,Temperate,Sandy,5.8,High,Daily,14,45,Bad,No,None,Bacterial,High,High,Low,Manure,Mumbai,Summer
+Mint,Mentha,Herb,Yes,Yes,19,62,Full Sun,Arid,Clay,6.1,Medium,Weekly,9,105,Bad,No,Caterpillars,Bacterial,High,Low,Low,Vermicompost,Bangalore,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,28,68,Shade,Subtropical,Clay,6.5,Low,Daily,8,119,Good,No,Caterpillars,Bacterial,Low,Medium,High,Manure,Mumbai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,19,82,Full Sun,Subtropical,Sandy,6.5,Medium,Weekly,5,30,Good,Yes,None,None,High,High,High,Vermicompost,Bangalore,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,33,68,Partial Shade,Arid,Sandy,6.3,High,Weekly,17,32,Good,Yes,Aphids,None,Low,High,Medium,Compost,Chennai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,20,55,Full Sun,Subtropical,Peaty,6.3,Medium,Daily,13,84,Good,No,Aphids,Viral,Medium,Medium,Medium,Compost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,22,65,Shade,Arid,Sandy,5.5,High,Weekly,6,81,Bad,Yes,Fungal,Fungal,Low,High,High,Manure,Delhi,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,25,43,Full Sun,Subtropical,Sandy,6.3,Medium,Weekly,9,62,Good,No,Fungal,Viral,High,High,Low,Compost,Mumbai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,17,40,Partial Shade,Subtropical,Clay,5.7,Low,Daily,10,105,Bad,Yes,Aphids,Bacterial,High,Low,Low,Compost,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,35,48,Full Sun,Arid,Sandy,5.6,High,Weekly,8,88,Bad,No,Fungal,Fungal,Medium,High,Medium,Manure,Delhi,Winter
+Carrot,Daucus carota,Herb,Yes,No,19,41,Shade,Temperate,Loam,6.1,Medium,Daily,17,59,Good,Yes,None,None,High,Medium,Medium,Compost,Mumbai,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,23,83,Shade,Tropical,Silt,7.2,Low,Weekly,9,88,Good,Yes,None,Bacterial,Low,Medium,High,Vermicompost,Mumbai,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,19,44,Shade,Subtropical,Peaty,5.8,High,Weekly,5,114,Bad,No,Bacterial,Viral,High,Medium,High,Vermicompost,Delhi,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,22,65,Full Sun,Subtropical,Loam,5.9,High,Daily,14,85,Good,Yes,Fungal,None,Medium,Low,Low,Manure,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,23,89,Full Sun,Subtropical,Sandy,6.5,Medium,Weekly,8,94,Bad,No,None,Fungal,Low,Medium,Low,Vermicompost,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,15,66,Shade,Tropical,Peaty,6.5,High,Weekly,8,109,Good,Yes,Caterpillars,Bacterial,Medium,High,High,Compost,Delhi,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,34,70,Shade,Temperate,Sandy,7.4,Low,Weekly,18,67,Bad,Yes,Caterpillars,Bacterial,Low,Low,Medium,Compost,Hyderabad,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,22,68,Shade,Tropical,Peaty,6.3,Medium,Daily,6,87,Good,No,Aphids,None,Medium,Medium,High,Manure,Hyderabad,Monsoon
+Mint,Mentha,Herb,Yes,Yes,27,82,Shade,Arid,Sandy,5.5,High,Weekly,15,55,Good,No,None,Fungal,High,High,Medium,Compost,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,35,90,Full Sun,Subtropical,Clay,6.8,Low,Weekly,5,43,Bad,No,Aphids,Viral,High,Low,High,Vermicompost,Bangalore,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,19,75,Partial Shade,Subtropical,Silt,6.0,Low,Weekly,7,54,Bad,Yes,Fungal,Bacterial,Medium,Medium,Low,Compost,Hyderabad,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,29,88,Partial Shade,Arid,Sandy,6.7,Medium,Weekly,18,32,Good,No,Aphids,None,High,High,Medium,Compost,Bangalore,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,24,75,Full Sun,Subtropical,Silt,7.0,Low,Weekly,13,102,Bad,Yes,None,Viral,Low,Medium,High,Vermicompost,Mumbai,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,32,78,Partial Shade,Subtropical,Sandy,7.4,High,Weekly,15,52,Good,No,Caterpillars,Bacterial,Low,High,Medium,Manure,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,26,79,Partial Shade,Subtropical,Loam,5.7,Medium,Daily,19,94,Good,Yes,Bacterial,Fungal,Medium,Low,High,Manure,Mumbai,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,21,75,Full Sun,Temperate,Loam,6.3,Medium,Weekly,10,65,Good,Yes,Fungal,Bacterial,High,Medium,High,Manure,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,33,82,Partial Shade,Temperate,Silt,6.8,Low,Weekly,5,88,Good,Yes,Bacterial,None,Low,Medium,Low,Compost,Delhi,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,15,43,Shade,Temperate,Silt,7.3,Low,Weekly,16,111,Good,No,None,None,Medium,Low,Medium,Vermicompost,Mumbai,Winter
+Radish,Raphanus sativus,Herb,Yes,No,32,43,Full Sun,Arid,Sandy,6.5,Medium,Daily,10,101,Good,Yes,Fungal,Bacterial,High,Medium,Medium,Compost,Chennai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,23,53,Shade,Arid,Clay,5.7,Medium,Daily,9,77,Good,No,Caterpillars,None,Low,Low,High,Vermicompost,Mumbai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,18,59,Partial Shade,Arid,Clay,6.4,High,Weekly,17,101,Good,Yes,Fungal,Bacterial,High,High,Low,Compost,Bangalore,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,32,53,Full Sun,Arid,Clay,5.5,High,Daily,20,93,Bad,Yes,None,Viral,High,Low,Low,Compost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,18,48,Shade,Subtropical,Clay,6.7,Medium,Weekly,16,40,Bad,Yes,Aphids,Bacterial,Medium,Low,High,Manure,Bangalore,Monsoon
+Mint,Mentha,Herb,Yes,Yes,15,66,Shade,Arid,Silt,7.1,High,Weekly,8,92,Good,Yes,Aphids,Bacterial,High,High,Medium,Vermicompost,Delhi,Monsoon
+Coriander,Coriandrum sativum,Herb,Yes,Yes,34,56,Partial Shade,Temperate,Sandy,7.5,Medium,Weekly,10,44,Bad,No,Aphids,None,High,Medium,Medium,Vermicompost,Hyderabad,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,18,57,Shade,Tropical,Sandy,7.3,High,Weekly,12,83,Bad,Yes,Caterpillars,Viral,Low,Medium,High,Vermicompost,Hyderabad,Summer
+Mint,Mentha,Herb,Yes,Yes,17,74,Partial Shade,Tropical,Peaty,6.8,High,Weekly,20,51,Good,No,Bacterial,Bacterial,High,Low,Medium,Manure,Hyderabad,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,32,70,Full Sun,Temperate,Peaty,6.5,Low,Weekly,5,104,Good,Yes,None,Bacterial,Low,High,High,Vermicompost,Delhi,Winter
+Tomato,Solanum lycopersicum,Herb,Yes,No,34,75,Partial Shade,Subtropical,Peaty,7.3,Medium,Daily,10,78,Bad,Yes,None,Fungal,Low,Low,Low,Compost,Delhi,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,17,82,Full Sun,Tropical,Clay,7.1,Low,Daily,10,69,Good,Yes,Caterpillars,Bacterial,High,Low,Low,Vermicompost,Delhi,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,42,Full Sun,Arid,Silt,6.8,High,Weekly,7,59,Bad,No,None,None,Medium,High,Medium,Manure,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,31,47,Shade,Subtropical,Silt,5.6,Medium,Daily,16,40,Bad,Yes,None,None,Medium,Medium,High,Compost,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,23,41,Shade,Arid,Silt,5.9,High,Weekly,17,43,Good,No,None,Viral,Low,Low,High,Compost,Hyderabad,Summer
+Mint,Mentha,Herb,Yes,Yes,29,56,Full Sun,Temperate,Peaty,6.7,Low,Daily,12,56,Bad,Yes,Bacterial,Viral,High,Low,High,Vermicompost,Hyderabad,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,34,82,Full Sun,Arid,Peaty,7.3,Low,Daily,9,88,Good,No,Bacterial,None,Low,High,Medium,Compost,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,31,67,Partial Shade,Tropical,Silt,5.7,Medium,Daily,13,30,Bad,Yes,Fungal,Bacterial,Low,High,Medium,Manure,Delhi,Winter
+Radish,Raphanus sativus,Herb,Yes,No,21,53,Full Sun,Arid,Sandy,6.5,Medium,Daily,11,91,Good,Yes,Caterpillars,Viral,Low,Low,Medium,Compost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,22,82,Full Sun,Tropical,Loam,5.6,High,Daily,6,62,Bad,Yes,None,Viral,Medium,Medium,High,Manure,Mumbai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,35,44,Shade,Arid,Silt,6.7,High,Daily,19,37,Bad,No,Fungal,Viral,High,Low,High,Manure,Hyderabad,Monsoon
+Mint,Mentha,Herb,Yes,Yes,26,60,Full Sun,Temperate,Sandy,6.3,Low,Daily,20,80,Good,Yes,Fungal,Bacterial,Medium,Medium,Medium,Vermicompost,Bangalore,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,84,Partial Shade,Tropical,Clay,5.9,Low,Daily,20,58,Good,Yes,Bacterial,Viral,High,High,Medium,Vermicompost,Hyderabad,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,33,50,Full Sun,Arid,Clay,6.2,Low,Daily,5,43,Good,No,Caterpillars,Bacterial,Medium,High,Medium,Vermicompost,Bangalore,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,21,63,Full Sun,Temperate,Loam,7.0,Low,Weekly,12,61,Bad,Yes,Caterpillars,Bacterial,Low,Low,High,Vermicompost,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,22,74,Full Sun,Arid,Sandy,6.9,Medium,Weekly,8,71,Good,No,Caterpillars,None,Low,High,Low,Manure,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,20,52,Partial Shade,Subtropical,Loam,6.2,Low,Daily,14,79,Good,Yes,Caterpillars,Fungal,Low,High,High,Vermicompost,Mumbai,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,32,47,Partial Shade,Subtropical,Clay,6.0,Medium,Daily,13,65,Bad,Yes,Fungal,Bacterial,Medium,Medium,Low,Manure,Delhi,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,35,72,Shade,Temperate,Silt,6.2,High,Weekly,13,84,Good,No,Fungal,Viral,Low,Low,Medium,Vermicompost,Delhi,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,26,51,Partial Shade,Tropical,Sandy,6.0,High,Daily,14,62,Bad,Yes,Fungal,Viral,Medium,High,Low,Compost,Delhi,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,25,67,Full Sun,Subtropical,Peaty,6.1,High,Weekly,5,72,Good,No,Bacterial,None,Medium,Medium,High,Manure,Bangalore,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,21,62,Shade,Arid,Clay,6.2,Medium,Weekly,10,83,Bad,Yes,Bacterial,Fungal,Medium,Medium,Medium,Compost,Hyderabad,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,22,81,Shade,Arid,Sandy,7.5,Low,Daily,15,113,Bad,Yes,Fungal,Bacterial,Medium,Medium,Low,Vermicompost,Hyderabad,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,31,78,Partial Shade,Temperate,Loam,7.2,Low,Weekly,13,104,Good,No,None,Fungal,Medium,High,Medium,Vermicompost,Mumbai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,28,75,Partial Shade,Temperate,Sandy,7.2,High,Daily,13,38,Bad,Yes,None,Fungal,Low,High,High,Vermicompost,Mumbai,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,34,80,Shade,Temperate,Clay,6.6,High,Weekly,17,102,Good,Yes,Fungal,Bacterial,High,High,High,Compost,Chennai,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,30,54,Partial Shade,Arid,Clay,5.8,Medium,Daily,9,42,Good,No,Bacterial,Viral,High,Medium,Low,Vermicompost,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,21,70,Full Sun,Subtropical,Sandy,6.8,High,Weekly,18,102,Bad,Yes,Aphids,Viral,Low,Low,High,Compost,Bangalore,Monsoon
+Lettuce,Lactuca sativa,Herb,Yes,No,29,80,Partial Shade,Subtropical,Clay,6.4,Medium,Weekly,19,50,Good,No,Caterpillars,Bacterial,High,Medium,Medium,Manure,Chennai,Monsoon
+Pumpkin,Cucurbita pepo,Vine,Yes,No,24,56,Partial Shade,Temperate,Loam,6.6,Medium,Daily,8,98,Bad,Yes,Caterpillars,Fungal,Low,Low,Low,Compost,Mumbai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,31,82,Partial Shade,Temperate,Silt,6.4,Medium,Weekly,7,35,Bad,Yes,Bacterial,Bacterial,High,High,Low,Manure,Bangalore,Summer
+Carrot,Daucus carota,Herb,Yes,No,27,47,Partial Shade,Tropical,Clay,7.3,High,Daily,16,116,Good,Yes,None,Viral,Low,High,Low,Compost,Hyderabad,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,24,85,Full Sun,Arid,Silt,7.3,Low,Weekly,18,40,Good,No,Aphids,Fungal,Medium,Low,Low,Vermicompost,Hyderabad,Summer
+Radish,Raphanus sativus,Herb,Yes,No,20,62,Full Sun,Arid,Silt,5.8,Low,Weekly,12,35,Bad,Yes,None,None,Medium,Medium,High,Manure,Hyderabad,Winter
+Mint,Mentha,Herb,Yes,Yes,29,72,Shade,Subtropical,Silt,5.9,Medium,Daily,8,100,Bad,No,Aphids,Bacterial,Low,High,Medium,Manure,Hyderabad,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,18,61,Full Sun,Temperate,Sandy,6.3,Medium,Weekly,5,89,Good,No,Aphids,Viral,High,High,Medium,Manure,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,31,63,Shade,Temperate,Silt,5.6,Medium,Weekly,19,118,Good,No,None,Fungal,High,High,Medium,Vermicompost,Delhi,Summer
+Radish,Raphanus sativus,Herb,Yes,No,17,87,Shade,Arid,Loam,7.0,Low,Daily,17,107,Good,Yes,Caterpillars,Bacterial,Medium,Medium,Medium,Compost,Delhi,Monsoon
+Radish,Raphanus sativus,Herb,Yes,No,17,74,Partial Shade,Subtropical,Sandy,6.7,High,Daily,12,50,Bad,No,Caterpillars,Viral,Medium,High,Low,Vermicompost,Bangalore,Winter
+Mint,Mentha,Herb,Yes,Yes,29,47,Partial Shade,Arid,Clay,5.5,Low,Weekly,11,99,Bad,Yes,Bacterial,None,Medium,Medium,Medium,Compost,Mumbai,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,16,52,Partial Shade,Arid,Loam,5.5,Medium,Weekly,16,70,Good,No,None,Fungal,Low,Low,High,Vermicompost,Bangalore,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,24,83,Full Sun,Subtropical,Clay,7.3,Low,Weekly,5,47,Good,Yes,Aphids,None,Low,Low,High,Compost,Mumbai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,27,86,Full Sun,Tropical,Loam,6.9,Low,Daily,14,76,Bad,Yes,Aphids,Bacterial,Low,Low,Low,Manure,Bangalore,Monsoon
+Mint,Mentha,Herb,Yes,Yes,31,48,Partial Shade,Arid,Peaty,6.6,Medium,Daily,16,42,Good,Yes,Fungal,None,High,Low,High,Vermicompost,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,16,43,Shade,Temperate,Silt,6.3,High,Weekly,15,115,Good,Yes,Aphids,Viral,Medium,High,Low,Compost,Chennai,Winter
+Carrot,Daucus carota,Herb,Yes,No,18,43,Shade,Temperate,Clay,7.1,Low,Daily,7,71,Bad,No,Aphids,None,Low,Low,Low,Manure,Hyderabad,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,24,51,Full Sun,Arid,Sandy,6.4,High,Weekly,20,80,Good,No,Bacterial,Fungal,Low,High,Medium,Manure,Delhi,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,18,71,Shade,Temperate,Loam,6.8,Low,Weekly,18,110,Good,Yes,Caterpillars,None,Low,Medium,High,Compost,Mumbai,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,17,58,Shade,Tropical,Sandy,6.2,Medium,Daily,20,97,Good,Yes,Bacterial,Fungal,High,Medium,Medium,Compost,Hyderabad,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,27,89,Shade,Arid,Peaty,7.2,Medium,Daily,12,78,Bad,No,Bacterial,Fungal,High,Low,High,Manure,Bangalore,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,24,70,Shade,Tropical,Silt,6.4,Low,Daily,11,32,Good,No,Fungal,Fungal,Medium,Medium,High,Vermicompost,Delhi,Summer
+Carrot,Daucus carota,Herb,Yes,No,23,63,Full Sun,Arid,Loam,7.4,High,Weekly,13,45,Bad,Yes,Caterpillars,Bacterial,Medium,Medium,Low,Vermicompost,Mumbai,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,15,51,Partial Shade,Temperate,Silt,6.4,Low,Weekly,17,33,Good,Yes,None,Viral,Low,High,Low,Compost,Bangalore,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,16,76,Partial Shade,Arid,Loam,7.1,Medium,Daily,5,35,Good,No,None,Fungal,High,High,Medium,Vermicompost,Bangalore,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,28,61,Full Sun,Arid,Peaty,5.7,High,Daily,8,45,Bad,Yes,Bacterial,Fungal,High,High,Medium,Vermicompost,Delhi,Winter
+Carrot,Daucus carota,Herb,Yes,No,17,69,Full Sun,Tropical,Peaty,6.7,Medium,Daily,12,45,Good,Yes,None,Viral,High,High,Low,Compost,Mumbai,Monsoon
+Spinach,Spinacia oleracea,Herb,Yes,No,18,59,Shade,Temperate,Silt,5.6,Low,Daily,13,36,Bad,No,Caterpillars,None,Medium,Low,High,Compost,Delhi,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,19,84,Partial Shade,Subtropical,Loam,7.2,High,Daily,17,60,Good,Yes,Bacterial,None,Medium,Low,Low,Compost,Hyderabad,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,19,89,Shade,Arid,Peaty,6.4,Low,Daily,6,78,Bad,No,Bacterial,Fungal,Medium,Low,Low,Compost,Delhi,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,34,84,Full Sun,Subtropical,Loam,7.0,Low,Weekly,7,45,Good,Yes,None,Viral,Low,High,Medium,Manure,Delhi,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,29,71,Partial Shade,Arid,Sandy,7.4,Medium,Daily,7,83,Bad,No,Fungal,Viral,Low,High,High,Vermicompost,Bangalore,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,35,43,Shade,Temperate,Sandy,6.2,High,Daily,9,103,Good,No,Fungal,Viral,High,Medium,High,Compost,Delhi,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,29,69,Shade,Subtropical,Loam,6.8,Medium,Weekly,18,53,Good,No,Fungal,Viral,Low,Medium,High,Manure,Delhi,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,30,88,Shade,Subtropical,Peaty,6.3,Medium,Weekly,12,71,Good,Yes,Aphids,Fungal,Low,Medium,Medium,Compost,Mumbai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,24,86,Full Sun,Arid,Clay,7.2,Low,Weekly,15,111,Bad,Yes,Caterpillars,Fungal,Medium,High,Low,Manure,Mumbai,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,34,67,Partial Shade,Temperate,Loam,5.6,Low,Daily,14,78,Bad,No,None,Viral,Medium,Low,Medium,Compost,Chennai,Winter
+Chili,Capsicum annuum,Shrub,Yes,No,34,40,Partial Shade,Tropical,Sandy,6.3,Medium,Daily,14,68,Good,No,Bacterial,Viral,Low,Medium,Medium,Manure,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,33,73,Full Sun,Temperate,Silt,7.5,Medium,Weekly,10,45,Good,Yes,Caterpillars,Bacterial,High,Low,Low,Vermicompost,Delhi,Summer
+Chili,Capsicum annuum,Shrub,Yes,No,21,49,Shade,Tropical,Silt,6.9,Low,Daily,16,88,Good,Yes,Aphids,Fungal,High,Low,Medium,Compost,Mumbai,Winter
+Radish,Raphanus sativus,Herb,Yes,No,24,48,Shade,Arid,Sandy,5.6,Low,Daily,11,72,Bad,Yes,Bacterial,Bacterial,Low,High,Low,Manure,Bangalore,Winter
+Spinach,Spinacia oleracea,Herb,Yes,No,21,71,Shade,Tropical,Loam,6.1,Low,Weekly,16,119,Good,No,Aphids,None,High,High,Medium,Manure,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,34,64,Full Sun,Tropical,Silt,6.8,High,Daily,7,76,Bad,Yes,Caterpillars,None,Medium,High,Medium,Compost,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,17,43,Shade,Tropical,Peaty,5.7,Medium,Daily,7,80,Bad,Yes,None,Viral,High,High,Low,Compost,Delhi,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,29,75,Full Sun,Arid,Clay,7.1,Medium,Weekly,16,31,Good,No,None,Fungal,Low,Medium,High,Vermicompost,Delhi,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,27,64,Shade,Arid,Silt,6.0,Medium,Weekly,5,99,Bad,Yes,Bacterial,Fungal,Medium,Medium,Medium,Compost,Delhi,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,18,83,Partial Shade,Subtropical,Clay,7.3,High,Daily,19,64,Good,Yes,Caterpillars,Bacterial,Low,High,Low,Manure,Chennai,Winter
+Carrot,Daucus carota,Herb,Yes,No,27,51,Shade,Subtropical,Loam,5.7,High,Daily,10,98,Bad,No,Aphids,Bacterial,Low,Low,High,Vermicompost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,17,85,Full Sun,Subtropical,Silt,5.6,Low,Daily,11,100,Bad,No,Aphids,Viral,Medium,Medium,Low,Compost,Delhi,Summer
+Basil,Ocimum basilicum,Herb,Yes,Yes,31,76,Full Sun,Tropical,Clay,6.2,Medium,Daily,9,43,Bad,No,Fungal,Viral,Medium,Medium,Low,Manure,Delhi,Monsoon
+Chili,Capsicum annuum,Shrub,Yes,No,35,65,Shade,Temperate,Loam,5.8,High,Weekly,17,37,Bad,Yes,Fungal,Fungal,Low,Medium,Low,Manure,Delhi,Winter
+Carrot,Daucus carota,Herb,Yes,No,19,66,Partial Shade,Tropical,Sandy,5.9,Low,Weekly,16,67,Good,Yes,Aphids,Viral,High,Medium,Medium,Compost,Chennai,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,27,83,Partial Shade,Arid,Clay,5.6,Low,Daily,11,101,Good,No,None,Fungal,Low,High,Low,Vermicompost,Chennai,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,22,67,Partial Shade,Arid,Sandy,6.9,Low,Weekly,8,93,Bad,No,Fungal,Viral,Medium,Low,Low,Compost,Chennai,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,16,65,Full Sun,Tropical,Silt,5.9,Medium,Weekly,19,113,Bad,No,Bacterial,Viral,Medium,Medium,Low,Compost,Hyderabad,Winter
+Pumpkin,Cucurbita pepo,Vine,Yes,No,21,81,Full Sun,Tropical,Clay,6.7,High,Daily,16,58,Good,Yes,Bacterial,Bacterial,High,Medium,Medium,Compost,Bangalore,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,44,Shade,Subtropical,Silt,7.3,Medium,Daily,8,107,Good,No,Bacterial,Fungal,High,High,Low,Compost,Delhi,Summer
+Mint,Mentha,Herb,Yes,Yes,35,57,Full Sun,Tropical,Loam,6.3,Low,Daily,19,115,Bad,No,None,Viral,Low,Medium,High,Compost,Delhi,Winter
+Radish,Raphanus sativus,Herb,Yes,No,33,55,Full Sun,Tropical,Loam,5.9,Low,Daily,16,102,Bad,Yes,None,Fungal,Low,Low,High,Manure,Mumbai,Monsoon
+Mint,Mentha,Herb,Yes,Yes,35,66,Full Sun,Temperate,Silt,5.9,Low,Daily,7,109,Bad,No,Fungal,Fungal,Low,Medium,High,Manure,Delhi,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,30,47,Shade,Arid,Silt,7.5,Low,Weekly,8,31,Bad,Yes,Caterpillars,Bacterial,Low,Low,High,Vermicompost,Hyderabad,Monsoon
+Mint,Mentha,Herb,Yes,Yes,17,81,Shade,Subtropical,Silt,6.2,High,Daily,20,41,Good,Yes,Bacterial,None,Low,Medium,High,Vermicompost,Hyderabad,Monsoon
+Carrot,Daucus carota,Herb,Yes,No,24,81,Full Sun,Subtropical,Sandy,6.5,High,Weekly,18,67,Bad,Yes,Fungal,Fungal,Medium,High,High,Vermicompost,Bangalore,Winter
+Basil,Ocimum basilicum,Herb,Yes,Yes,30,83,Shade,Tropical,Clay,6.6,Low,Daily,5,109,Good,No,Caterpillars,Viral,High,Low,High,Manure,Bangalore,Monsoon
+Basil,Ocimum basilicum,Herb,Yes,Yes,27,80,Partial Shade,Arid,Peaty,7.4,Low,Daily,13,33,Bad,Yes,None,Fungal,Low,Medium,Medium,Manure,Mumbai,Summer
+Lettuce,Lactuca sativa,Herb,Yes,No,19,77,Shade,Subtropical,Sandy,7.4,Medium,Daily,14,44,Bad,Yes,Aphids,Bacterial,Medium,Medium,High,Compost,Hyderabad,Summer
+Tomato,Solanum lycopersicum,Herb,Yes,No,17,50,Shade,Subtropical,Sandy,6.0,Low,Daily,13,46,Bad,No,None,Fungal,Medium,High,Medium,Compost,Delhi,Summer
+Pumpkin,Cucurbita pepo,Vine,Yes,No,32,87,Partial Shade,Tropical,Sandy,7.5,High,Weekly,18,106,Bad,Yes,Bacterial,Bacterial,Low,Medium,Low,Manure,Bangalore,Winter
+Coriander,Coriandrum sativum,Herb,Yes,Yes,32,83,Shade,Temperate,Clay,6.2,High,Daily,18,71,Good,No,Fungal,Bacterial,Medium,Low,Low,Compost,Mumbai,Monsoon
+Tomato,Solanum lycopersicum,Herb,Yes,No,22,84,Shade,Arid,Clay,6.5,Low,Weekly,12,66,Bad,No,None,Viral,Low,High,Medium,Manure,Mumbai,Summer
+Coriander,Coriandrum sativum,Herb,Yes,Yes,25,48,Full Sun,Temperate,Loam,6.7,Medium,Weekly,9,116,Bad,No,Bacterial,None,Low,High,Medium,Vermicompost,Chennai,Winter
+Lettuce,Lactuca sativa,Herb,Yes,No,24,54,Partial Shade,Tropical,Loam,7.0,Medium,Weekly,17,32,Bad,Yes,Fungal,Viral,Low,High,Low,Vermicompost,Hyderabad,Summer
+Spinach,Spinacia oleracea,Herb,Yes,No,21,75,Full Sun,Tropical,Peaty,5.8,Low,Weekly,15,61,Bad,No,Bacterial,Viral,High,High,Low,Vermicompost,Hyderabad,Summer

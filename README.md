@@ -1,4 +1,29 @@
 # Domestic-Farming-Solutions
+Brief Summary of the Domestic Farming Solutions Project
+
+The Domestic Farming Solutions project is a web-based platform designed to help individuals set up and manage their own kitchen or terrace gardens. It provides personalized plant recommendations, an AI-powered chatbot, and educational resources to promote sustainable urban farming.
+
+Key Features
+Plant Recommendation System – Suggests plants based on location, season, soil type, and garden size.
+AI Chatbot – Provides instant guidance on gardening topics such as pest control, watering schedules, and soil preparation.
+Weather API Integration – Uses real-time weather data to refine plant recommendations.
+Interactive Content – Includes gardening tutorials, composting techniques, and watering guides.
+Technology Stack
+Frontend: HTML, CSS, JavaScript, (React.js optional).
+Backend: Python (Flask/Django) or Node.js.
+Database: MySQL or MongoDB.
+APIs: OpenWeatherMap (for real-time weather updates).
+Chatbot: Dialogflow or Rasa (for NLP integration).
+Objectives
+✔️ Make gardening accessible for beginners.
+✔️ Promote sustainable urban farming.
+✔️ Encourage self-reliance by reducing dependence on store-bought produce.
+✔️ Educate users on eco-friendly gardening (composting, water conservation).
+
+Novelty in the Project
+Personalized recommendations based on user-specific inputs.
+AI chatbot for real-time assistance.
+Sustainability-focused approach to encourage small-scale urban farming.
 [Watch the video here](https://drive.google.com/file/d/1Ih5xNSfupHnHKtOyWE6N0regSlxF5dyV/view?usp=sharing)
 Automated Soil Moisture Monitoring and Irrigation System
 This project implements an Arduino-based soil moisture monitoring and automated irrigation system using a soil moisture sensor, relay-controlled water pump, and LED indicators. The system ensures efficient water management by automatically activating irrigation when soil moisture falls below a predefined threshold.

@@ -16,8 +16,11 @@ APIs: OpenWeatherMap (for real-time weather updates).
 Chatbot: Dialogflow or Rasa (for NLP integration).
 Objectives
 ✔️ Make gardening accessible for beginners.
+
 ✔️ Promote sustainable urban farming.
+
 ✔️ Encourage self-reliance by reducing dependence on store-bought produce.
+
 ✔️ Educate users on eco-friendly gardening (composting, water conservation).
 
 Novelty in the Project
